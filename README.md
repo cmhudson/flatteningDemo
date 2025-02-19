@@ -7,4 +7,4 @@ Examples of flattening nested arrays
 
 # C Sharp
 
-[C# Readme](./CSharp/Flattening/Readme.md)
+[C# Readme](./c-sharp/Flattening/Readme.md)
